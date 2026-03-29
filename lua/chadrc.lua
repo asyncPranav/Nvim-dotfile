@@ -20,5 +20,14 @@ M.base46 = {
 --          lazyload = false
 --      }
 -- }
+--
+M.term = {
+  float = {
+    relative = "editor",
+    row = 0.25,
+    col = 0.08,
+    width = 0.82
+  },
+}
 
 return M
